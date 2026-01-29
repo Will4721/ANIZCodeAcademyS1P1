@@ -8,7 +8,8 @@ public class WriteToConsol03 {
 
     public static void Message03() {
         //This is a variable.
-        String text = "I forgot my lunch box! Ver03";
+        //jeg skriver mit navn
+        String text = "William\n Valdemar 45";
         //The value of the variable is written to the consol.
         System.out.println(text);
     }
